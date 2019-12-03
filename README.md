@@ -2,9 +2,9 @@
 Script Webhook Line Messaging API Use Heroku Or Other
 
 # Developer:
-Copyright @ Medantechno.com & ilyasafr
+Copyright @ Medantechno.com & Scode
 
-Modified @ Farzain - zFz
+Modified @ SCode
 
 # Deploy to:
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
