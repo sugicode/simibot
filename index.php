@@ -1,7 +1,7 @@
 <?php
 /*
 copyright @ medantechno.com
-Modified by Ilyasa
+Modified by scode
 2017
 */
 require_once('./line_class.php');
